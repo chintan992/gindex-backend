@@ -17,4 +17,5 @@ Any Issues / Help Regarding Setup, Contact Through the telegram Group
 ##### without this the Main GIndex wont work, Both should run simultaneously.
 
 #### Deploy to Heroku Directly:
-[![Deploy]
+[![Deploy] git chnage
+
